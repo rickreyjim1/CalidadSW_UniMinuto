@@ -8,11 +8,11 @@ El desarrollo de las actividades se realizará usando Python3 y se verificará e
 En [FlowChart](http://bit.ly/2UQ8xYs) haga el diagrama de flujo que corresponde a las siguiente líneas de código:
 `Python`
 ``` 
-int num=1;
-while (num <= 10) {
-  printf(num);
-  num++;
-}
+num = 1
+for i in range(10):
+  print(num)
+  num +=1
+
 ```
 ### Programa.
 Desarrolle un código en Python que:
