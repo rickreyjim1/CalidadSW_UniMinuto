@@ -6,8 +6,8 @@ El desarrollo de las actividades se realizará usando Python3 y se verificará e
 ## Actividad 1.
 ### Diagramas de flujo.
 En [FlowChart](http://bit.ly/2UQ8xYs) haga el diagrama de flujo que corresponde a las siguiente líneas de código:
-`Código`
-``` [Python3]
+`Python`
+``` 
 int num=1;
 while (num <= 10) {
   printf(num);
@@ -19,5 +19,5 @@ Desarrolle un código en Python que:
 1. Genere la serie de Fibonacci cuyos términos sean <1000.
 2. Almacene en una lista los términos de la serie.
 3. Presente por consola:
-3.1 Los 2 últimos términos de la serie.
-3.2 El término n-ésimo de la serie.
+* Los 2 últimos términos de la serie.
+* El término n-ésimo de la serie.
