@@ -21,3 +21,5 @@ Desarrolle un código en Python que:
 3. Presente por consola:
 * Los 2 últimos términos de la serie.
 * El término n-ésimo de la serie.
+
+
